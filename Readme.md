@@ -48,11 +48,11 @@
 
 12. ¿Qué comando o comandos usaste en el paso 32?
 
-   *git checkout bae6773 //si queremos movernos sólo -- elegí esta opción*
-   *git reset --hard bae6773 //si queremos volver al estado inicial en el working copy*
+   *git checkout bae6773 //si queremos movernos sólo -- elegí esta opción*  
+   *git reset --hard bae6773 //si queremos volver al estado inicial en el working copy*  
 
 13. ¿Qué comando o comandos usaste en el punto 33?
 
-   *git checkout 0fc36d3 //si queremos movernos sólo -- elegí esta opción*
-   *git reset --hard 0fc36d3 //si queremos volver al estado inicial en el working copy*
+   *git checkout 0fc36d3 //si queremos movernos sólo -- elegí esta opción*  
+   *git reset --hard 0fc36d3 //si queremos volver al estado inicial en el working copy*  
 
