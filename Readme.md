@@ -40,19 +40,19 @@
 
 10. ¿Qué comando o comandos utilizaste en el paso 29?
 
-   *git branch -D title*
+      *git branch -D title*
 
 11. ¿Qué comando o comandos utilizaste en el paso 30?
 
-   *git reset --hard f8a4a5c*
+      *git reset --hard f8a4a5c*
 
 12. ¿Qué comando o comandos usaste en el paso 32?
 
-   *git checkout bae6773 //si queremos movernos sólo -- elegí esta opción*  
-   *git reset --hard bae6773 //si queremos volver al estado inicial en el working copy*  
+      *git checkout bae6773 //si queremos movernos sólo -- elegí esta opción*  
+      *git reset --hard bae6773 //si queremos volver al estado inicial en el working copy*  
 
 13. ¿Qué comando o comandos usaste en el punto 33?
 
-   *git checkout 0fc36d3 //si queremos movernos sólo -- elegí esta opción*  
-   *git reset --hard 0fc36d3 //si queremos volver al estado inicial en el working copy*  
+      *git checkout 0fc36d3 //si queremos movernos sólo -- elegí esta opción*  
+      *git reset --hard 0fc36d3 //si queremos volver al estado inicial en el working copy*  
 
